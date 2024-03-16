@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         live2d下载修复
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/yandujun363/Live2D-download-fix
 // @version      1.0
 // @description  修复live2d无法下载
 // @author       氧度菌
