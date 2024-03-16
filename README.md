@@ -2,7 +2,7 @@
 修复CN地区live2d无法下载
 
 ## 安装
-注意仅win端
+注意仅win端\
 git clone 下来后把js文件安装到油猴
 
 ## 使用
