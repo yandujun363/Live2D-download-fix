@@ -12,10 +12,11 @@
 
 
 (function() {
+    let vre_win = "5.0.05";
     $(document).ready(function(){
         $("#accept_win").click(
             function (){
-                window.open("https://cubism.live2d.com/editor/bin/Live2D_Cubism_Setup_5.0.05.exe")
+                window.open("https://cubism.live2d.com/editor/bin/Live2D_Cubism_Setup_"+vre_win+".exe")
             }
         )
      });
