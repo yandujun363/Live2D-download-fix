@@ -18,6 +18,12 @@
             function (){
                 window.open("https://cubism.live2d.com/editor/bin/Live2D_Cubism_Setup_"+vre_win+".exe")
             }
-        )
+        );
+        $("#v5_00_05_B1").click(
+            function () {
+                window.open("https://cubism.live2d.com/editor/bin/Live2D_Cubism_Setup_5.0.05 beta1.exe")
+            }
+        );
+        
      });
 })();
