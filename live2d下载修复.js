@@ -29,6 +29,16 @@
             function (){
                 window.open(Liv2D_download_link+"5.0.04"+exe)
             }
-        )
+        );
+        $("#5_00_03").click(
+            function (){
+                window.open(Liv2D_download_link+"5.0.04"+exe)
+            }
+        );
+        $("#5_00_03_B1").click(
+            function (){
+                window.open(Liv2D_download_link+"5.0.03 beta1"+exe)
+            }
+        );
      });
 })();
