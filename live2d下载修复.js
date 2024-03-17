@@ -40,5 +40,30 @@
                 window.open(Liv2D_download_link+"5.0.03 beta1"+exe)
             }
         );
+        $("#v5_00_02").click(
+            function (){
+                window.open(Liv2D_download_link+"5.0.02"+exe)
+            }
+        );
+        $("#v5_00_01").click(
+            function (){
+                window.open(Liv2D_download_link+"5.0.01"+exe)
+            }
+        );
+        $("#v5_00_00").click(
+            function(){
+                window.open(Liv2D_download_link+"5.0.00"+exe)
+            }
+        );
+        $("#v5_00_00_B2").click(
+            function (){
+                window.open(Liv2D_download_link+"5.0.00 beta2"+exe)
+            }
+        );
+        $("#v5_00_00_B1").click(
+            function (){
+                window.open(Liv2D_download_link+"5.0.00 bate2"+exe)
+            }
+        )
      });
 })();
