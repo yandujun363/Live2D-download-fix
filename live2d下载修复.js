@@ -12,18 +12,23 @@
 
 
 (function() {
-    let vre_win = "5.0.05";
+    let Liv2D_download_link = "https://cubism.live2d.com/editor/bin/Live2D_Cubism_Setup_"
+    let exe = ".exe"
     $(document).ready(function(){
         $("#accept_win").click(
             function (){
-                window.open("https://cubism.live2d.com/editor/bin/Live2D_Cubism_Setup_"+vre_win+".exe")
+                window.open(Liv2D_download_link+"5.0.05"+exe)
             }
         );
         $("#v5_00_05_B1").click(
             function () {
-                window.open("https://cubism.live2d.com/editor/bin/Live2D_Cubism_Setup_5.0.05 beta1.exe")
+                window.open(Liv2D_download_link+"5.0.05 beta1"+exe)
             }
         );
-        
+        $("#v5_00_04").click(
+            function (){
+                window.open(Liv2D_download_link+"5.0.04"+exe)
+            }
+        )
      });
 })();

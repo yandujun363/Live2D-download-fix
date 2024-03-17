@@ -1,6 +1,10 @@
 # Live2D-download-fix
 修复CN地区live2d无法下载
 
+## 更新日志
+### 2024/03/17
+增加了历史版本下载
+
 ## 安装
 注意仅win端\
 git clone 下来后把js文件安装到油猴
