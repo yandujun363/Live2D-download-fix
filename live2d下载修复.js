@@ -64,6 +64,56 @@
             function (){
                 window.open(Liv2D_download_link+"5.0.00 bate2"+exe)
             }
-        )
+        );
+        $("#v4_02_04").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.04"+exe)
+            }
+        );
+        $("#v4_02_04_B5").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.04 bate5"+exe)
+            }
+        );
+        $("#v4_02_04_B4").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.04 bate4"+exe)
+            }
+        );
+        $("#v4_02_04_B2").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.04 bate2"+exe)
+            }
+        );
+        $("#v4_02_04_B1").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.04 bate1"+exe)
+            }
+        );
+        $("#v4_02_03_2").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.03_2"+exe)
+            }
+        );
+        $("#v4_02_03").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.03"+exe)
+            }
+        );
+        $("#v4_02_02").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.02_1"+exe)
+            }
+        );
+        $("#v4_02_02_B2").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.02 beta2_1"+exe)
+            }
+        );
+        $("#v4_02_02_B1").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.02 beta1_1"+exe)
+            }
+        );
      });
 })();
