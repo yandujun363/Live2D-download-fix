@@ -115,5 +115,45 @@
                 window.open(Liv2D_download_link+"4.2.02 beta1_1"+exe)
             }
         );
+        $("#v4_02_01").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.01_1"+exe)
+            }
+        );
+        $("#v4_02_01_B1").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.01 beta1_1"+exe)
+            }
+        );
+        $("#v4_02_00").click(
+            function (){
+                window.open(Liv2D_download_link+"4.2.00_1"+exe)
+            }
+        );
+        $("#v4_01_05").click(
+            function (){
+                window.open(Liv2D_download_link+"4.1.05_1"+exe)
+            }
+        );
+        $("#v4_01_04").click(
+            function (){
+                window.open(Liv2D_download_link+"4.1.04_1"+exe)
+            }
+        );
+        $("#v4_01_03").click(
+            function (){
+                window.open(Liv2D_download_link+"4.1.03_1"+exe)
+            }
+        );
+        $("#v4_00_09").click(
+            function (){
+                window.open(Liv2D_download_link+"4.0.09_1"+exe)
+            }
+        );
+        $("#v3_03_03").click(
+            function (){
+                window.open(Liv2D_download_link+"3.3.03_2"+exe)
+            }
+        );
      });
 })();
