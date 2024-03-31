@@ -3,7 +3,7 @@
 // @namespace    https://github.com/yandujun363/Live2D-download-fix
 // @updateURL    https://github.com/yandujun363/Live2D-download-fix/blob/main/live2d下载修复.js
 // @downloadURL  https://github.com/yandujun363/Live2D-download-fix/blob/main/live2d下载修复.js
-// @version      1.0
+// @version      2.0
 // @description  修复live2d无法下载
 // @author       氧度菌
 // @require      https://code.jquery.com/jquery-2.1.4.min.js
