@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         live2d下载修复
 // @namespace    https://github.com/yandujun363/Live2D-download-fix
-// @updateURL    https://github.com/yandujun363/Live2D-download-fix/blob/main/live2d下载修复.js
-// @downloadURL  https://github.com/yandujun363/Live2D-download-fix/blob/main/live2d下载修复.js
+// @updateURL    https://github.com/yandujun363/Live2D-download-fix/blob/main/Live2D-download-fix.js
+// @downloadURL  https://github.com/yandujun363/Live2D-download-fix/blob/main/Live2D-download-fix.js
 // @version      2.0
 // @description  修复live2d无法下载
 // @author       氧度菌
