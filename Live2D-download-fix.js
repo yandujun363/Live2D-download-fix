@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         live2d下载修复
 // @namespace    https://github.com/yandujun363/Live2D-download-fix
-// @updateURL    https://github.com/yandujun363/Live2D-download-fix/blob/main/Live2D-download-fix.js
-// @downloadURL  https://github.com/yandujun363/Live2D-download-fix/blob/main/Live2D-download-fix.js
-// @version      2.0
+// @updateURL    https://raw.githubusercontent.com/yandujun363/Live2D-download-fix/main/Live2D-download-fix.js
+// @downloadURL  https://raw.githubusercontent.com/yandujun363/Live2D-download-fix/main/Live2D-download-fix.js
+// @version      2.1
 // @description  修复live2d无法下载
 // @author       氧度菌
 // @require      https://code.jquery.com/jquery-2.1.4.min.js
@@ -18,6 +18,16 @@
     let exe = ".exe"
     $(document).ready(function(){
         $("#accept_win").click(
+            function (){
+                window.open(Liv2D_download_link+"5.0.06"+exe)
+            }
+        )
+        $("#v5_00_06_B1").click(
+            function (){
+                window.open(Liv2D_download_link+"5.0.06 beta1"+exe)
+            }
+        );
+        $("#v5_00_05").click(
             function (){
                 window.open(Liv2D_download_link+"5.0.05"+exe)
             }
